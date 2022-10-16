@@ -26,4 +26,4 @@ But you can sync users automatically via. LDAP sync in Snipe-it.
 The script can run locally or in Azure Service 'Automation'.
 
 
-*Best practice: I recommended to make a backup of Snipe-it before trying the script for the first time.*
+**Best practice: I recommended to make a backup of Snipe-it before trying the script for the first time.**
