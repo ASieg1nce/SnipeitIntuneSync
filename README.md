@@ -1,5 +1,5 @@
 # SnipeitIntuneSync
-This Powershell script Sync Intune Assets to a Snipe-it Instance.
+This Powershell script Sync Intune / Endpoint manager Assets to a Snipe-it Instance.
 
 Used Modules are:
 - SnipeitPS
